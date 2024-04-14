@@ -2,9 +2,9 @@
 
 <p>The objective of this project is to build an integrated Backend/API application that allows other programmers to dynamically build models to replicate the structures of Brazilian standards (NBR) tables, to later use the data in JSON format.</p>
 
-![project arch](https://github.com/Brunoengi/NBR_tables/assets/71531171/900397e5-507c-4151-9c76-f1c42c19d2a7)
-
 <h3>How to do:</h3>
+
+![project arch](https://github.com/Brunoengi/NBR_tables/assets/71531171/900397e5-507c-4151-9c76-f1c42c19d2a7)
 
 <p><b>Backend:</b> 
 
